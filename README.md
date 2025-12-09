@@ -1,14 +1,5 @@
-<!DOCTYPE html>
-<html>
-<body>
+# 2025Signbook
 
-<h1 style="color:darkcyan;font-family:verdana;">Sebastian</h1>
+Your job is to put your name on this webpage with the most you as possible.
 
-<img src="vector.jpg" alt="A vector graphic">
-
-
-
-
-</body>
-</html>
-
+If you do exactly what Mr. C does you'll get a 70/100.
